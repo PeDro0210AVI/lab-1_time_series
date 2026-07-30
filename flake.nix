@@ -37,6 +37,9 @@
                   scikit-learn
 
                   seaborn
+
+                  torch
+                  pycatch22
                 ];
               pythonEnv = pkgs.python3.withPackages pythonPackages;
             in
