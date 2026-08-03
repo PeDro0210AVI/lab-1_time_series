@@ -2,3 +2,5 @@
 .envrc
 .direnv
 .virtual_documents
+.venv310/
+.venv312/
